@@ -1,14 +1,8 @@
 # Aircnc
 
----
+### A software based a little bit on Airbnb, build in a omnistack week
 
-## A software based a little bit on Airbnb, build in a omnistack week
-
-<img src="https://github.com/JoseVitor-1337/aircnc/blob/master/Interfaces.svg" width="1280" height="720" />
-
----
-
-## Features and concepts used
+### Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
 
