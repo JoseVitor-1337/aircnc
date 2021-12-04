@@ -1,7 +1,5 @@
 # Aircnc
 
-### A software based a little bit on Airbnb, build in a omnistack week
-
 ### Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
